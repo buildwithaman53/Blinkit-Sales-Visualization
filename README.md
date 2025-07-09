@@ -2,7 +2,7 @@
 A Power BI dashboard visualizing Blinkit's sales performance, outlet types, and product category trends across India.
 
 ## 📊 Snapshot
-> *(Insert dashboard image or GIF)*
+> *(https://github.com/buildwithaman53/Blinkit-Sales-Visualization/blob/6a109f369dc29c3fe8f2d3445282371bf73c826b/Blinkit%20Dashboard%20Image.jpg)*
 
 ## 🧩 Dashboard Components
 
